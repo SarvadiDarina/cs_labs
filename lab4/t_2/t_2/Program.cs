@@ -16,7 +16,7 @@ namespace t_2
             int b = Convert.ToInt32(Console.ReadLine());
             Console.Write("c = ");
             int c = Convert.ToInt32(Console.ReadLine());
-            if (a < 9 && a > 3 || a > b && a < c)
+            if ((a < 9 && a > 3) || (a > b && a < c))
                 Console.WriteLine("Належить");
             else
                 Console.WriteLine("Неналежить");

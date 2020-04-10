@@ -1,0 +1,11 @@
+D:\dokument\С#\lab11\task1\task1\bin\Debug\netcoreapp3.1\task1.exe
+D:\dokument\С#\lab11\task1\task1\bin\Debug\netcoreapp3.1\task1.deps.json
+D:\dokument\С#\lab11\task1\task1\bin\Debug\netcoreapp3.1\task1.runtimeconfig.json
+D:\dokument\С#\lab11\task1\task1\bin\Debug\netcoreapp3.1\task1.runtimeconfig.dev.json
+D:\dokument\С#\lab11\task1\task1\bin\Debug\netcoreapp3.1\task1.dll
+D:\dokument\С#\lab11\task1\task1\bin\Debug\netcoreapp3.1\task1.pdb
+D:\dokument\С#\lab11\task1\task1\obj\Debug\netcoreapp3.1\task1.csprojAssemblyReference.cache
+D:\dokument\С#\lab11\task1\task1\obj\Debug\netcoreapp3.1\task1.AssemblyInfoInputs.cache
+D:\dokument\С#\lab11\task1\task1\obj\Debug\netcoreapp3.1\task1.AssemblyInfo.cs
+D:\dokument\С#\lab11\task1\task1\obj\Debug\netcoreapp3.1\task1.dll
+D:\dokument\С#\lab11\task1\task1\obj\Debug\netcoreapp3.1\task1.pdb

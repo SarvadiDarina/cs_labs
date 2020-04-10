@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="D:\dokument\С#\lab11\task1.cs" Link="task1.cs" />
+    <Compile Include="D:\dokument\С#\lab11\Triangle.cs" Link="Triangle.cs" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,11 @@
+D:\dokument\С#\Lab8\task2\task2\bin\Debug\netcoreapp3.1\task2.exe
+D:\dokument\С#\Lab8\task2\task2\bin\Debug\netcoreapp3.1\task2.deps.json
+D:\dokument\С#\Lab8\task2\task2\bin\Debug\netcoreapp3.1\task2.runtimeconfig.json
+D:\dokument\С#\Lab8\task2\task2\bin\Debug\netcoreapp3.1\task2.runtimeconfig.dev.json
+D:\dokument\С#\Lab8\task2\task2\bin\Debug\netcoreapp3.1\task2.dll
+D:\dokument\С#\Lab8\task2\task2\bin\Debug\netcoreapp3.1\task2.pdb
+D:\dokument\С#\Lab8\task2\task2\obj\Debug\netcoreapp3.1\task2.csprojAssemblyReference.cache
+D:\dokument\С#\Lab8\task2\task2\obj\Debug\netcoreapp3.1\task2.AssemblyInfoInputs.cache
+D:\dokument\С#\Lab8\task2\task2\obj\Debug\netcoreapp3.1\task2.AssemblyInfo.cs
+D:\dokument\С#\Lab8\task2\task2\obj\Debug\netcoreapp3.1\task2.dll
+D:\dokument\С#\Lab8\task2\task2\obj\Debug\netcoreapp3.1\task2.pdb

@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="D:\dokument\С#\lab15\task1\Equation.cs" Link="Equation.cs" />
+    <Compile Include="D:\dokument\С#\lab15\task1\IMatrix2.cs" Link="IMatrix2.cs" />
+    <Compile Include="D:\dokument\С#\lab15\task1\IMatrix3.cs" Link="IMatrix3.cs" />
+    <Compile Include="D:\dokument\С#\lab15\task1\Program.cs" Link="Program.cs" />
+  </ItemGroup>
+
+</Project>
